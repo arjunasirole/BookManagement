@@ -22,9 +22,9 @@ class BookManage
             books.Add(book);
             Console.WriteLine("Book added...");
         }
-        catch(Exception ex)
+        catch(Exception )
         {
-            throw new Exception($"Error adding book: ");
+            Console.WriteLine("Error adding book: ");
         }
     }
 
@@ -57,9 +57,9 @@ class BookManage
                 Console.WriteLine("Book updated");
             }
         }
-        catch (Exception ex)
+        catch (Exception)
         {
-            throw new Exception("Error Updating book : {ex.Enter valid inputs}");
+            Console.WriteLine("Error Updating book ");
         }
     }
 
@@ -79,9 +79,9 @@ class BookManage
             }
             
         }
-        catch (Exception ex)
+        catch (Exception)
         {
-            throw new Exception("Error Deleting Book: {ex.Enter valid ID");
+            Console.WriteLine("Error Deleting Book");
         }
     }
 }
