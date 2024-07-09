@@ -1,0 +1,7 @@
+C:\Users\arjun.a.sirole\source\repos\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+C:\Users\arjun.a.sirole\source\repos\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\arjun.a.sirole\source\repos\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\arjun.a.sirole\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.AssemblyReference.cache
+C:\Users\arjun.a.sirole\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\arjun.a.sirole\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+C:\Users\arjun.a.sirole\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
